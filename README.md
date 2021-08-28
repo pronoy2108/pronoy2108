@@ -32,7 +32,7 @@ My name is Pronoy Mukherjee and I am self-taught student developer who is passio
 </a>
 
 <a href=https://github.com/pronoy2108/scrumptious-webpage>
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pronoy2108&repo=&theme=tokyonight"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pronoy2108&repo=scrumptious-webpage&theme=tokyonight"/>
 </a>
   
 <!--**pronoymukherjeewritescode/pronoymukherjeewritescode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
