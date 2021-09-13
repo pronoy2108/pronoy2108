@@ -38,7 +38,7 @@ My name is Pronoy Mukherjee and I am self-taught student developer who is passio
 <!--**pronoymukherjeewritescode/pronoymukherjeewritescode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 
-- 🔭 I’m currently working on windows-11-taskbar-css-svg
+- 🔭 I’m currently working on windows 11 related projects
 - 🌱 I’m currently learning Markdown
 - 👯 I’m looking to collaborate on HTML projects
 - 🤔 I’m looking for help with Python, Javascript and C++...
