@@ -1,12 +1,12 @@
-[![Header](https://raw.githubusercontent.com/pronoymukherjeewritescode/pronoymukherjeewritescode/gh-pages/readme_header.png)](https://pronoymukherjeewritescode.github.io/pronoymukherjeewritescode)
+[![Header](https://raw.githubusercontent.com/pronoy2108/pronoy2108/gh-pages/readme_header.png)](https://pronoy2108.github.io/pronoy2108)
 
 <p>Find me here:</p>
 <p><a href="https://discord.gg/yrj2kpnsU2">
 <img align="left" alt="My Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg"/>Discord
 </a></p>
 
-<p><a href="https://gitlab.com/pronoymukherjeewritescode">
-<img align="left" alt="GitLab" width="21px" src="https://raw.githubusercontent.com/pronoymukherjeewritescode/pronoymukherjeewritescode/2d284067205180139e7174dbf803d0f3418bc1c1/gitlab.svg"/>GitLab
+<p><a href="https://gitlab.com/pronoy2108">
+<img align="left" alt="GitLab" width="21px" src="https://raw.githubusercontent.com/pronoy2108/pronoy2108/2d284067205180139e7174dbf803d0f3418bc1c1/gitlab.svg"/>GitLab
 </a></p>
 
 <p>Programming languages that I know:</p>
@@ -21,7 +21,7 @@
 
 My name is Pronoy Mukherjee and I am self-taught student developer who is passionate about computer science.
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pronoymukherjeewritescode&langs_count=&layout=compact&theme=tokyonight"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pronoy2108&langs_count=&layout=compact&theme=tokyonight"/>
 
 <a href="https://github.com/pronoy2108/pronoy2108">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=pronoy2108&show_icons=true&theme=tokyonight"/>
@@ -35,7 +35,7 @@ My name is Pronoy Mukherjee and I am self-taught student developer who is passio
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pronoy2108&repo=scrumptious-webpage&theme=tokyonight"/>
 </a>
   
-<!--**pronoymukherjeewritescode/pronoymukherjeewritescode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
+<!--**pronoy2108/pronoy2108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 
 - 🔭 I’m currently working on windows 11 related projects
