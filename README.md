@@ -23,17 +23,23 @@ My name is Pronoy Mukherjee and I am self-taught student developer who is passio
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pronoy2108&langs_count=&layout=compact&theme=tokyonight"/>
 
+<p>
 <a href="https://github.com/pronoy2108/pronoy2108">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=pronoy2108&show_icons=true&theme=tokyonight"/>
 </a>
-
-<a href=https://github.com/pronoy2108/windows-11-webremix>
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pronoy2108&repo=windows-11-webremix&theme=tokyonight"/>
+</p>
+  
+<p>
+<a href=https://github.com/pronoy2108/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pronoy2108&repo=&theme=tokyonight"/>
 </a>
+</p>
 
+<p>
 <a href=https://github.com/pronoy2108/scrumptious-webpage>
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pronoy2108&repo=scrumptious-webpage&theme=tokyonight"/>
 </a>
+  </p>
   
 <!--**pronoy2108/pronoy2108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
