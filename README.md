@@ -27,8 +27,8 @@ My name is Pronoy Mukherjee and I am self-taught student developer who is passio
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=pronoy2108&show_icons=true&theme=tokyonight"/>
 </a>
 
-<a href=https://github.com/pronoy2108/windows-11-css-svg>
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pronoy2108&repo=windows-11-css-svg&theme=tokyonight"/>
+<a href=https://github.com/pronoy2108/windows-11-webremix>
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pronoy2108&repo=windows-11-webremix&theme=tokyonight"/>
 </a>
 
 <a href=https://github.com/pronoy2108/scrumptious-webpage>
