@@ -36,8 +36,8 @@ My name is Pronoy Mukherjee and I am self-taught student developer who is passio
 </p>
 
 <p>
-<a href=https://github.com/pronoy2108/scrumptious-webpage>
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pronoy2108&repo=scrumptious-webpage&theme=tokyonight"/>
+<a href=https://github.com/pronoy2108/tweaks-for-windows-11>
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pronoy2108&repo=tweaks-for-windows-11&theme=tokyonight"/>
 </a>
   </p>
  
