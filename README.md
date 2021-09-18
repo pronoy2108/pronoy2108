@@ -37,11 +37,14 @@ My name is Pronoy Mukherjee and I am self-taught student developer who is passio
 ---
 ## My GitHub Statistics
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pronoy2108&langs_count=&layout=compact&theme=tokyonight"/>
+
+<p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pronoy2108&theme=tokyonight)
 
+</p>
 
+<img src="https://github-readme-streak-stats.herokuapp.com?user=pronoy2108&theme=tokyonight" width="700">
 <p>
 <a href="https://github.com/pronoy2108/pronoy2108">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=pronoy2108&show_icons=true&theme=tokyonight"/>
