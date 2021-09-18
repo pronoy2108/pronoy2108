@@ -50,7 +50,7 @@ My name is Pronoy Mukherjee and I am self-taught student developer who is passio
 
 <p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pronoy2108&theme=tokyonight"alt="Top Langs">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pronoy2108&theme=tokyonight" alt="Top Langs">
 
 </p>
 
@@ -68,7 +68,7 @@ My name is Pronoy Mukherjee and I am self-taught student developer who is passio
   
   <p>
   
-  ![]()
+  ![](https://raw.githubusercontent.com/pronoy2108/pronoy2108/main/pronoy2108-2021.stl)
   
   ```
    @pronoy2108's 2021 GitHub Skyline          
