@@ -68,7 +68,7 @@ My name is Pronoy Mukherjee and I am self-taught student developer who is passio
   
   <p>
   
-<h2>In for Some Music?</h2>
+
 
 <center>
 
