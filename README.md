@@ -72,18 +72,6 @@ My name is Pronoy Mukherjee and I am self-taught student developer who is passio
 
 <center>
 
-You can play your music tracks here.
-
-</center>
-
-<div id="app"></div>
-<script src="https://unpkg.com/webamp"></script>
-<script>
-    const app = document.getElementById("app")
-    const webamp = new Webamp();
-    webamp.renderWhenReady(app);
-</script>
-
   
   
 ![](https://raw.githubusercontent.com/pronoy2108/pronoy2108/main/pronoy2108-2021.stl)
