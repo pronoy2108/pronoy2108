@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/pronoy2108/pronoy2108/gh-pages/readme_header.png)](https://pronoy2108.github.io/pronoy2108)
+[![Header](https://raw.githubusercontent.com/pronoy2108/pronoy2108/main/readme_header.png)](https://pronoy2108.github.io/pronoy2108)
 
 <p>Find me here:</p>
 <p><a href="https://discord.gg/yrj2kpnsU2">
