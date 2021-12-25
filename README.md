@@ -6,7 +6,7 @@
 </a></p>
 
 <p><a href="https://gitlab.com/pronoy2108">
-<img align="left" alt="GitLab" width="21px" src="https://raw.githubusercontent.com/pronoy2108/pronoy2108/2d284067205180139e7174dbf803d0f3418bc1c1/gitlab.svg"/>GitLab
+<img align="left" alt="GitLab" width="21px" src="https://raw.githubusercontent.com/pronoy2108/pronoy2108/be702a19f399e8802b14e43d34545d236c5b102b/gitlab.svg"/>GitLab
 </a></p>
 
 <p>Programming languages that I know:</p>
