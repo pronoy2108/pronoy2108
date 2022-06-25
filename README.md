@@ -12,13 +12,6 @@
   
 ---
 
-Announcement:
-https://telegra.ph/Announcement-05-16
-
-
-<p>
 <!--**pronoy2108/pronoy2108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-
-- 📫 How to reach me: Emails
 
   </p>
